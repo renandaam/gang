@@ -1,0 +1,1 @@
+alert("YOK BISA YOK!");
